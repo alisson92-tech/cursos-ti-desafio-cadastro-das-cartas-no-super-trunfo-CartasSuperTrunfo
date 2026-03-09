@@ -11,7 +11,7 @@ int main () {
     float PIB01;  //PIB da cidade
     int pontos_turisticos01;  //número de pontos turisticos
 
-//declarar variaveis da cidade 02
+//declarar variaveis da cidade 02 
 
     char estado02; 
     char codigo02[5]; 
